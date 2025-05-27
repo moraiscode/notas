@@ -45,6 +45,8 @@ O conteúdo do editor é salvo automaticamente no `localStorage` a cada 10 segun
 
 Você pode testar e usar o bloco de notas online diretamente neste link (se publicado via GitHub Pages):
 
+https://moraiscode.github.io/notas/
+
 
 ---
 
